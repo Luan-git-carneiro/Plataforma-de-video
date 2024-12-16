@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FlixCatalogDomain/1.0.0": {
+        "runtime": {
+          "FlixCatalogDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlixCatalogDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

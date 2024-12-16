@@ -1,0 +1,12 @@
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\bin\Debug\net8.0\FlixCatalogDomain.deps.json
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\bin\Debug\net8.0\FlixCatalogDomain.dll
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\bin\Debug\net8.0\FlixCatalogDomain.pdb
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.AssemblyInfoInputs.cache
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.AssemblyInfo.cs
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.csproj.CoreCompileInputs.cache
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.sourcelink.json
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.dll
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\refint\FlixCatalogDomain.dll
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\FlixCatalogDomain.pdb
+c:\Users\LUANCAR\Flix\src\FlixCatalogDomain\obj\Debug\net8.0\ref\FlixCatalogDomain.dll
