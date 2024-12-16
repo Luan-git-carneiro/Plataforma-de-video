@@ -31,6 +31,10 @@ namespace FlixCatalogDomain.Entity
             {
                 throw new EntityValidationArgumentException($"{nameof(Description)} should not be empty or null");
             };
+            if(Name.Length < 3)
+            {
+                throw new EntityValidationArgumentException($"{nameof(Name)} should have at least 3 characters long");
+            };
         }
 
     }

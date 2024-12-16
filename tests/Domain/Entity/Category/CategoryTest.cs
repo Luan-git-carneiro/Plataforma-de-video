@@ -96,8 +96,21 @@ namespace Flix.Tests.Domain.Entity.Category
 
         }
 
-
         //nome deve ter no minimo 3 caracteres
+        [Theory(DisplayName = nameof(InstantiateErrorWhenNameHasLessThan3Characters))]
+        [Trait("Domain", "Category-Aggregates")]
+        [InlineData("a")]
+        [InlineData("ab")]
+        [InlineData("1")]
+        public void InstantiateErrorWhenNameHasLessThan3Characters(string invalidName)
+        {
+            Action action = () => new DomainCategory(invalidName, "Category ok description");
+
+            var exception =  Assert.Throws<EntityValidationArgumentException>(action);
+
+            Assert.Equal("Name should have at least 3 characters long", exception.Message);
+
+        }
         //nome deve ter no maximo 245 caracteres
         //descrição no maximo 10_00 caracteres
 

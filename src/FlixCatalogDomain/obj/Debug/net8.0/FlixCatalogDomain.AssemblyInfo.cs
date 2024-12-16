@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlixCatalogDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6540d7d38be90fa94a05dd098376031aeb8513fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb13bde97be65fbe518fba00e16d48259a6b81e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlixCatalogDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlixCatalogDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
